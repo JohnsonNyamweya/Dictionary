@@ -1,2 +1,2 @@
 # ToDoListApp
-ToDoList android application using jetpack compose with clean architecture and Room.
+ToDoList android application in jetpack compose with MVVM and Room.
